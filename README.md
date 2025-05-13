@@ -7,3 +7,10 @@ There are lots of LLM providers (OpenAI, Cohere, Hugging Face, etc) - the LLM cl
 
 Langchain has interface for LLMs. LLMs Interfaces for language models use plain text as input and output.
 https://python.langchain.com/v0.1/docs/integrations/llms/
+
+
+Link to Projects on this page => 
+1. Setting up the environment for Langchain development => https://github.com/anjalibh100/LLM-developement-with-LangChain/blob/main/LangChain-Project-Setting-up-the-environment-for-developement.ipynb
+2. Course Recommendation Chatbot => [Course Recommendation Chatbot Assistant](https://github.com/anjalibh100/LLM-developement-with-LangChain/blob/main/LangChain-Project-LLM-prompt-and-model-example.ipynb)
+3. Few Shot Prompt Template => https://github.com/anjalibh100/LLM-developement-with-LangChain/blob/main/Project-Chatbot-Legal-Assistant-Example1.ipynb
+4. Sentiment Analysis Model => https://github.com/anjalibh100/LLM-developement-with-LangChain/blob/main/HuggingFace%20Transformers.ipynb
