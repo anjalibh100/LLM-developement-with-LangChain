@@ -14,3 +14,4 @@ Link to Projects on this page =>
 2. Course Recommendation Chatbot => [Course Recommendation Chatbot Assistant](https://github.com/anjalibh100/LLM-developement-with-LangChain/blob/main/LangChain-Project-LLM-prompt-and-model-example.ipynb)
 3. Few Shot Prompt Template => https://github.com/anjalibh100/LLM-developement-with-LangChain/blob/main/Project-Chatbot-Legal-Assistant-Example1.ipynb
 4. Sentiment Analysis Model => https://github.com/anjalibh100/LLM-developement-with-LangChain/blob/main/HuggingFace%20Transformers.ipynb
+5. Development with GPT Models => https://github.com/anjalibh100/LLM-developement-with-LangChain/blob/main/GPT%20Models.ipynb
